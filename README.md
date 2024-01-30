@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FloppyDelfin
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning PHP, and next is JS
-- 💞️ I’m looking to collaborate on anything web development-related so I can gather expe, CSS, JS, PHP, and CentOS / CWP panel and hosting services on my own spinning rust.
+- 💞️ I’m looking to collaborate on anything web development-related so I can gather experience in:
+      - HTML, CSS, JS, PHP, and CentOS / CWP panel and hosting services on my own spinning rust.
 - 📫 How to reach me, You can write directly to me at nedim@floppyhosting.com
 - ⚡ Fun fact:
 -    - I am new in all of this and I am more than passionate about this kind of work,
